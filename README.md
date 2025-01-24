@@ -1,2 +1,2 @@
 # BASH
-Bash exercises repository
+This is my Bash exercises repository
