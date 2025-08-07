@@ -1,0 +1,18 @@
+# 🔹 Simulación completa
+./vagrant_vm_rescue_universal_macos_v3.4.sh /ruta/proyecto --dry-run
+
+# 🔹 Recuperación normal
+./vagrant_vm_rescue_universal_macos_v3.4.sh /ruta/proyecto
+
+# 🔹 Forzar reconstrucción con disco original
+./vagrant_vm_rescue_universal_macos_v3.4.sh /ruta/proyecto --force-rebuild
+
+# 🔹 Reconstrucción automática avanzada (sin .vbox)
+./vagrant_vm_rescue_universal_macos_v3.4.sh /ruta/proyecto --auto-fix
+
+# 🔹 Reconstrucción + Snapshots
+./vagrant_vm_rescue_universal_macos_v3.4.sh /ruta/proyecto --auto-fix
+
+# 🔹 Exportar como .box
+./vagrant_vm_rescue_universal_macos_v3.4.sh /ruta/proyecto --export
+
