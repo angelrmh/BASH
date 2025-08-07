@@ -4,6 +4,8 @@
 # ✅ Reconstrucción de redes, múltiples discos, snapshots encadenados
 # ✅ Soporta: VirtualBox, VMware, Parallels, QEMU/libvirt
 # Autor: NanelOps
+# GitHup: angelrmh
+# Correo: angelrmh10@gmail.com angel.millan@pepperinc.net
 # ======================================================
 
 PROJECT_PATH="$1"
